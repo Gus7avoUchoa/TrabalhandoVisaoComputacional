@@ -1,0 +1,14 @@
+# Extração de texto em imagem
+
+FİC
+FACULDADEINTEGRADADOCEARÁ
+ADiretoraGeraldaFACULDADEINTEGRADADOCEARÁ,nousodesuasatribuiçõesetendo
+emvistaaconclusãodoCursoSuperiordeTecnologia,conferea
+GUSTAVOUCHÔAPASSOS
+otítulodeTecnólogoemAnáliseeDesenvolvimentodeSistemaseoutorga-lheopresente
+Diplomaafimdequepossagozardetodososdireitoseprerrogativaslegais.
+Fortaleza,14dedezembrode2009
+anaFláviaalcântaraRochaChaves
+Diplomado
+DiretoraGeral
+HORASCARE

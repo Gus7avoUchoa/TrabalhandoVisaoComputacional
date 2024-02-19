@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "51310f1a-0ef7-4f84-8924-2c48924dc831",
+    "content-length": "159",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+        "text": "a city with boats on the water",
+        "confidence": 0.6267896890640259
+    },
+    "metadata": {
+        "width": 1024,
+        "height": 1024
+    }
+}
